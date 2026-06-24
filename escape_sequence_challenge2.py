@@ -20,10 +20,10 @@ the world has ever seen.
       \n\tReading books
       \n\tWatching Course Videos
       \n\tWriting code
-\n\n\t\tDelcaration
-      \n\tI hereby delcare that the above furnishied
-      information is tru to my knowledge and I'm 
-      Liable to it if it's confined.
+\n\n\t\tDeclaration
+      \n\tI hereby declare that the above furnishied
+      information is true to my knowledge and 
+      I'll be responsibile for any inaccuracies if found.
 \n\nPlace\t:
 \nDate\t:
 \n\t\t\tName:
