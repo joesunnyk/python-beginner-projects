@@ -36,4 +36,74 @@ print(f"My favourite food is {food}. Wow! I also like {food}.")
 
 print("\nPrint User Answer2")
 name = input("What's your name?")
-print(f"My name is {name}. Nice! I'm Joe. Nice meeting you!")
+print(f"My name is {name}. Nice! I'm Joe. Nice meeting you!\n")
+
+#6. A Simple caliculator project
+print("\n6. Programming a little caliculator")
+a = int(input("enter first number\n"))
+b = int(input("enter second number\n"))
+
+print("a+b is ", a+b)
+print("a-b is ", a-b)
+print("a/b is ", a/b)
+print("a*b is ", a*b)
+
+#6.1 Asimple caliculator project 2
+print("6.1 A simple caliculator project 2")
+c = int(input("enter first number"))
+d = int(input("enter second number"))
+
+print("c+d is ", c+d)
+print("c-d is ", c-d)
+print("c*d is ", c*d)
+print("c%d is", c%d)
+
+#7. Escape sequence practice
+print("\nEscape sequence practice")
+print('Harry said, "Python is awesome!"\nThis is on a newline.\nThis is a tab ->\t<- here')
+
+#8 Operator challenge practice
+print("8. Operator challenge practice")
+a = int(input("enter first number"))
+print("square is", a**2)
+print("cube is", a**2)
+
+#9. A quick quiz - True or False
+print("-------------------------------")
+print("9. A quick Quiz - True/False")
+print("-------------------------------\n")
+score = 0
+
+answer = input("1. Python code must always end with a (;). (True/False): ")
+if answer == "False":
+    score =+ 1
+
+answer = input("2. The # symbol is used for comments in python. (True/False): ")
+if answer == "True":
+    score =+1
+
+answer = input('3. "123" and 123 are the same in python. (True/False):')
+if answer == "False":
+    score =+1
+
+answer = input("4. The * operator is used for multiplication. (True/False): ")
+if answer == "True":
+    score =+1
+
+answer = input("5. Creates a newline. (True/False): ")
+if answer == "True":
+    score =+1
+
+answer = input("6. Variables in python can start with numbers.(True/False): ")
+if answer == "False":
+    score =+ 1
+
+answer = input('7. int("10") + 5 gives 15. (True/False): ')
+if answer == "True":
+    score =+ 1
+
+print("----------------------------------\n")
+print("\tQuick quiz completed successfully.")
+print("Your score: ", score, "/7")
+print("Thank you for taking the quiz")
+print("-----------------------------------")
