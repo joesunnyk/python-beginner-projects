@@ -23,3 +23,7 @@ if answer == "True":
 
 print("\nYour answers have been successfully registered!")
 print(f"Your score: {score}/5")
+
+#What's your name practice?
+name = input("What's your name?")
+print(f"My name is {name}. Nice to meet you! My name is Arjun.")
