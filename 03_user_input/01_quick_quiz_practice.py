@@ -1,7 +1,7 @@
 # quick Quiz True of False 
 print("Read the following and mark whether True or False\n")
 score = 0
-answer = input("1. There are twelve parts of speech in English. (True.False): ")
+answer = input("1. There are twelve parts of speech in English. (True/False): ")
 if answer == "True":
     score += 1
 
