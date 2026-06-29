@@ -13,7 +13,7 @@ answer = input("4. There are 9 parts of speech. (True/False): ")
 if answer. lower() == "false":
     score += 1
 answer = input("5. English is a non phonetic language. (True/False): ")
-if answer. lower() == "frue":
+if answer. lower() == "true":
     score += 1
 print(f"\nYour score: {score}/5\n")
 if score >= 3:
